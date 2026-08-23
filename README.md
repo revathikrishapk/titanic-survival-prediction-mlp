@@ -91,3 +91,14 @@ titanic-survival-prediction-mlp/
 ├── README.md
 ├── Team_Lambda_Titanic_Classification_Revathi.ipynb
 └── Titanic-Dataset.csv
+
+## What I Learned
+
+This project helped me understand the complete workflow of a binary classification problem, including data preprocessing, baseline comparison, neural network training, regularization, and model evaluation.
+
+It also showed me why a good validation score alone is not enough and why the final test set should remain unseen until the final evaluation.
+
+## Author
+
+**Revathi Krishna P K**  
+M.Sc. Artificial Intelligence and Machine Learning
